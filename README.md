@@ -23,5 +23,5 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/book-recommendation-system.git
+   git clone https://github.com/Coding-Shanks/book-recommendation-system.git
    cd book-recommendation-system
